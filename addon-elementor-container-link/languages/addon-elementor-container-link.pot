@@ -1,9 +1,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Addon Elementor Container Link\n"
+"Project-Id-Version: Addon Elementor Container Link 1.4\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-18 14:27+0000\n"
+"POT-Creation-Date: 2026-10-07 00:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: \n"
@@ -13,23 +13,22 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Loco https://localise.biz/\n"
-"X-Loco-Version: 2.6.6; wp-6.4.3\n"
-"X-Domain: addon-elementor-container-link"
+"X-Domain: addon-elementor-container-link\n"
 
-#. Name of the plugin
+#. Plugin Name of the plugin
 msgid "Addon Elementor Container Link"
 msgstr ""
 
-#: addon-elementor-container-link.php:25 addon-elementor-container-link.php:33
-msgid "Container Link"
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/addon-elementor-container-link/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Enhance your Elementor Website Builder with Addon Elementor Container Link by adding custom URL or link support to containers, sections, inner sections, and columns."
 msgstr ""
 
 #. Author of the plugin
 msgid "Faiz R"
-msgstr ""
-
-#. URI of the plugin
-msgid "https://downloads.wordpress.org/plugin/addon-elementor-container-link"
 msgstr ""
 
 #. Author URI of the plugin
@@ -37,9 +36,21 @@ msgid "https://github.com/faizz-rasul"
 msgstr ""
 
 #: addon-elementor-container-link.php:35
+msgid "Addon Elementor Container Link requires Elementor to be installed and active. Please install or activate Elementor to use this plugin."
+msgstr ""
+
+#: addon-elementor-container-link.php:81
+msgid "Container Link"
+msgstr ""
+
+#: addon-elementor-container-link.php:89
+msgid "Link"
+msgstr ""
+
+#: addon-elementor-container-link.php:91
 msgid "https://your-link.com"
 msgstr ""
 
-#. Description of the plugin
-msgid "This plugin adds the option to add a link to Elementor containers."
+#: addon-elementor-container-link.php:222
+msgid "Buy cup of coffee"
 msgstr ""
